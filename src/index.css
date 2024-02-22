@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url("./Assets/Starwars.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% ;
+  background-position: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+button {
+  color: white;
+}
+li , h2 , h3 , p{
+  color: white;
+}
